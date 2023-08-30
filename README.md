@@ -1,1 +1,1 @@
-# MathGames
+# MathGame
